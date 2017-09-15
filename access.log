@@ -1,0 +1,6 @@
+2017-08-23 13:45:41,145 - TEST-LOG - WARNING - warn message
+2017-08-23 13:45:41,145 - TEST-LOG - ERROR - error message
+2017-08-23 13:45:41,145 - TEST-LOG - CRITICAL - critical message
+2017-08-23 13:48:53,552 - TEST-LOG - WARNING - warn message hellow
+2017-08-23 13:48:53,552 - TEST-LOG - ERROR - error message
+2017-08-23 13:48:53,552 - TEST-LOG - CRITICAL - critical message
